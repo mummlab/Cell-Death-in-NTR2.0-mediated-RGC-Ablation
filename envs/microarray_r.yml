@@ -1,0 +1,36 @@
+name: ceisel_mumm_microarray_r
+
+channels:
+  - conda-forge      # rpy2, jupyter, general Python
+  - bioconda         # all R/Bioconductor packages
+  - defaults
+
+dependencies:
+  # ── Python & Jupyter ──────────────────────────────────────────
+  - python
+  - jupyter
+  - jupyterlab
+  - notebook
+  - ipykernel
+
+  # ── rpy2 bridge ───────────────────────────────────────────────
+  - rpy2>=3.5
+
+  # ── R base ────────────────────────────────────────────────────
+  - r-base>=4.3
+  - r-irkernel          # makes R available as a Jupyter kernel
+
+  # ── Bioconductor: Affymetrix / array processing ───────────────
+  - bioconductor-affy             # CEL file reading, RMA, MAS5
+  - bioconductor-affyplm          # probe-level models, QC (NUSE/RLE)
+  - bioconductor-oligo            # modern CEL reader (ST arrays etc.)
+  - bioconductor-gcrma            # GC-RMA normalization
+
+  # ── Bioconductor: differential expression ─────────────────────
+  - bioconductor-limma            # linear models + eBayes
+
+  # ── Bioconductor: annotation ──────────────────────────────────
+  - bioconductor-zebrafishprobe
+  - bioconductor-zebrafish.db
+  - bioconductor-pd.zebrafish
+

@@ -1,0 +1,20 @@
+name: ceisel_mumm_sccoda
+dependencies:
+  - python=3.11
+  - scanpy==1.11 # Pinned due to better default leiden performance
+  - jupyter
+  - leidenalg
+  - pip
+  # - tensorflow                # -_-
+  # - tensorflow-probability
+  - pip:
+    - tensorflow
+    - tensorflow-probability
+    - tf-keras                # -_- -_- -_- -_- -_- -_- -_- -_- 
+    - sccoda
+
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
