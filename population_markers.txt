@@ -1,0 +1,76 @@
+cones
+gnat2,
+arr3
+
+rods rho,gnat1,gngt1,sagb,pde6a,pde6b,nrl
+
+muller_glia rlbp1a,rx1,crabp1a,gpr37a
+
+rgcs rbpms2b,isl2b,uchl1,rbpms2a,pou4f2
+
+bipolar_cells nrn1lb,cabp5a,vsx1,calb2b,vamp1,rs1a,syt5b
+
+amacrine_cells pax6a,pax6b
+
+horizontal_cells slc4a5b,tnr,rem1,CR361564.1,cx52.9,onecut,cx55.5
+cones: gnat2,arr3a,arr3b
+rods: rho,gnat1,gngt1,sagb,pde6a,pde6b,nrl
+muller_glia: rlbp1a,rx1,crabp1a,gpr37a
+rgcs: rbpms2b,isl2b,uchl1,rbpms2a,pou4f2
+rgc_secondary: nrn1a,isl2b,islr2
+microglia: mfap4,mpeg1.1,csf1ra,spi1b
+bipolar_cells: nrn1lb,cabp5a,vsx1,calb2b,vamp1,rs1a,syt5b
+amacrine_cells: pax6b,slc6a1b,pax10,nhlh2,pvalb6
+horizontal_cells: onecutl,tnr,rem1,CR361564.1,cx52.9,ompa,opn9
+undifferentiated: sox2,olig2,hes6,hmgn2,hmga1a,atoh7
+pr_precursors: tulp1a,opn6a,tmem244
+erythrocytes: hbbe2,prdx2,creg1
+yama: pou5f3,myca,mycb,klf17,sox2
+cones: gnat2,arr3a,arr3b
+rods: rho,gnat1,gngt1,sagb,pde6a,pde6b,nrl
+muller_glia: rlbp1a,rx1,crabp1a,gpr37a
+rgcs: rbpms2b,isl2b,uchl1,rbpms2a,pou4f2
+rgc_secondary: nrn1a,isl2b,islr2
+microglia: mfap4,mpeg1.1,csf1ra,spi1b
+bipolar_cells: nrn1lb,cabp5a,vsx1,calb2b,vamp1,rs1a,syt5b
+amacrine_cells: pax6b,slc6a1b,pax10,nhlh2,pvalb6
+horizontal_cells: onecutl,tnr,rem1,CR361564.1,cx52.9,ompa,opn9
+undifferentiated: sox2,olig2,hes6,hmgn2,hmga1a,atoh7
+pr_precursors: tulp1a,opn6a,tmem244
+erythrocytes: hbbe2,prdx2,creg1
+cones: gnat2,arr3a,arr3b
+rods: rho,gnat1,gngt1,sagb,pde6a,pde6b,nrl
+muller_glia: rlbp1a,rx1,crabp1a,gpr37a
+rgcs: rbpms2b,isl2b,uchl1,rbpms2a,pou4f2
+rgc_secondary: nrn1a,isl2b,islr2
+microglia: mfap4,mpeg1.1,csf1ra,spi1b
+bipolar_cells: nrn1lb,cabp5a,vsx1,calb2b,vamp1,rs1a,syt5b
+amacrine_cells: pax6b,slc6a1b,pax10,nhlh2,pvalb6
+horizontal_cells: onecutl,tnr,rem1,CR361564.1,cx52.9,ompa,opn9
+undifferentiated: sox2,olig2,hes6,hmgn2,hmga1a,atoh7
+pr_precursors: tulp1a,opn6a,tmem244
+erythrocytes: hbbe2,prdx2,creg1
+cones: gnat2,arr3a,arr3b
+rods: rho,gnat1,gngt1,sagb,pde6a,pde6b,nrl
+muller_glia: rlbp1a,rx1,crabp1a,gpr37a
+rgcs: rbpms2b,isl2b,uchl1,rbpms2a,pou4f2
+rgc_secondary: nrn1a,isl2b,islr2
+microglia: mfap4,mpeg1.1,csf1ra,spi1b
+bipolar_cells: nrn1lb,cabp5a,vsx1,calb2b,vamp1,rs1a,syt5b
+amacrine_cells: pax6b,slc6a1b,pax10,nhlh2,pvalb6
+horizontal_cells: onecutl,tnr,rem1,CR361564.1,cx52.9,ompa,opn9
+undifferentiated: sox2,olig2,hes6,hmgn2,hmga1a,atoh7
+pr_precursors: tulp1a,opn6a,tmem244
+erythrocytes: hbbe2,prdx2,creg1
+cones: gnat2,arr3a,arr3b
+rods: rho,gnat1,gngt1,sagb,pde6a,pde6b,nrl
+muller_glia: rlbp1a,rx1,crabp1a,gpr37a
+rgcs: rbpms2b,isl2b,uchl1,rbpms2a,pou4f2
+rgc_secondary: nrn1a,isl2b,islr2
+microglia: mfap4,mpeg1.1,csf1ra,spi1b
+bipolar_cells: nrn1lb,cabp5a,vsx1,calb2b,vamp1,rs1a,syt5b
+amacrine_cells: pax6b,slc6a1b,pax10,nhlh2,pvalb6
+horizontal_cells: onecutl,tnr,rem1,CR361564.1,cx52.9,ompa,opn9
+undifferentiated: sox2,olig2,hes6,hmgn2,hmga1a,atoh7
+pr_precursors: tulp1a,opn6a,tmem244
+erythrocytes: hbbe2,prdx2,creg1
